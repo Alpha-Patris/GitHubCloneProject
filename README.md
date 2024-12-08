@@ -1,1 +1,2 @@
-Readme stuff
+Resolving merge conflicts
+ Modification in main branch.
